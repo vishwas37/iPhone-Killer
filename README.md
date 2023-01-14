@@ -1,4 +1,4 @@
-<h1 align="center">iPhone Killer 
-   
-Malicious code that completely cripples an iPhone and renders it unusable while running a configuration profile. 
+<h1 align="center">iPhone Killer </h1>
+<p align="center">
+    Malicious C Code that cripples an iPhone and renders it unusable while executed with a configuration profile.
 </p><hr>
